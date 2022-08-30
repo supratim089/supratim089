@@ -1,4 +1,4 @@
-#### Hi There
+# Hi There
 ![Hi There](https://static.vecteezy.com/system/resources/thumbnails/000/540/663/small/WELCOME_banner_alphabet_sign_marquee_light_bulb_vintage_carnival_or_circus_style__Vector_illustration.jpg)
 
 Data Scientist with strong math background and 3+ years of experience using predictive modeling, data processing, and data mining algorithms to solve challenging business problems. Involved in Python open source community and passionate about deep reinforcement learning.
